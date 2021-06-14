@@ -1,4 +1,3 @@
 # hello-world
-Re-familiarizing and learning how to setup a personal git.
-
-Just the facts.
+The Hello World project files
+This is a C++ code project generated in VS 2019.
